@@ -41,8 +41,9 @@ los grados Celcius (°C), Farenheit (°F) y Kelvin (°K).
 
 ## 5. Desarrolladores del proyecto:
 ![perfil](https://github.com/sebastiancharris21/ConversorDeMonedaONE/assets/47152014/c5299ffd-6b08-4587-b138-de7cd0f51f15)<br/>
+
 **DEV: Sebastian M. Charris**
->[Linkedin]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/sebastian-manuel-charris-castrillon-282625227/)
+> [Linkedin](https://www.linkedin.com/in/sebastian-manuel-charris-castrillon-282625227/)
 
 ## 6. Notas:
 > Ambos conversores, contien una validacion interna que obliga al usuario solo a escribir el contenido en numero. si el usario digita algo diferente,
